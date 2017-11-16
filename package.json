@@ -1,6 +1,6 @@
 {
   "name": "couch-hash-pwd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hash CouchDB passwords",
   "main": "index.js",
   "bin": {
