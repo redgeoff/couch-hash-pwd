@@ -1,6 +1,6 @@
 'use strict';
 
-var Pwd = require('../scripts/pwd');
+var Pwd = require('../scripts');
 
 describe('node and browser', function () {
 
@@ -18,6 +18,10 @@ describe('node and browser', function () {
     });
   });
 
+  // TODO: this test fails in the browser and I believe it is due to an error below couch-hash-pwd.
+  // couch-hash-pwd is mostly a command line util so it isn't a deal breaker that the code doesn't
+  // fully run in browser.
+  //
   // Note: this test establishes a baseline
   it('should hash password with salt', function () {
     var salt = 'b9e81da8ecb2bcbf80cecf8e3386ed87';
