@@ -1,6 +1,6 @@
 'use strict';
 
-var Pwd = require('../scripts/pwd');
+var Pwd = require('../scripts');
 
 describe('node and browser', function () {
 
