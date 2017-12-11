@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "couch-pwd-updated": "^1.0.0",
-    "fs-extra": "^4.0.2",
+    "fs-extra": "^5.0.0",
     "sporks": "1.0.0",
     "yargs": "^10.0.3"
   }
