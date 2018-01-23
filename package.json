@@ -58,6 +58,6 @@
     "couch-pwd-updated": "^1.0.0",
     "fs-extra": "^5.0.0",
     "sporks": "1.0.0",
-    "yargs": "^10.0.3"
+    "yargs": "^11.0.0"
   }
 }
