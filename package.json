@@ -46,7 +46,7 @@
     "gofur": "^1.0.0",
     "istanbul": "^0.4.5",
     "jshint": "^2.9.4",
-    "mocha": "^7.0.1",
+    "mocha": "^7.1.1",
     "request": "^2.81.0"
   },
   "greenkeeper": {
